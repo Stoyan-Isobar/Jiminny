@@ -1,0 +1,15 @@
+jmny test solution
+
+1. step - instal VS Code (net 6.0 sdk)
+2. add Nuget manager (selenium needs browser(chrome) driver) 13:34 11.2.2022 г.
+3. create a test project 13:39 11.2.2022 г.
+4. get chrome and chrome driver 13:44 11.2.2022 г.
+5. get .net core test explorer for VSCode 13:44 11.2.2022 г.
+6. set test project path 13:47 11.2.2022 г.
+7. run test to make sure it works (rename test name to have inticator) 13:51 11.2.2022 г.
+7.a. remember to build before run (: 13:51 11.2.2022 г.
+8. install selenium web driver 13:56 11.2.2022 г.
+9. setup class and initial methods 14:14 11.2.2022 г.
+10. write test (open url, check correct page is open, look for some element on page) 14:43 11.2.2022 г.
+11. test project structure (drivers, helpers, models, steps and BDD integration) 15:00 11.2.2022 г.
+~2 1/2 h.
